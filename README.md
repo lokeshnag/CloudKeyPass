@@ -21,7 +21,7 @@ Copy all your files to your project folder and then,
 
 ``` bash
 # go into app's directory
-$ cd my-project
+$ cd CloudKeyPass
 
 # install app's dependencies
 $ npm install
